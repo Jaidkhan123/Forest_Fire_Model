@@ -1,0 +1,13 @@
+terminal command 
+
+1-> ls -a
+means it is alreadyt committed to a git (pwskills)
+
+2-> git remote -v 
+now we have to remove this repository 
+
+3-> git remote rm origin
+now it removed 
+
+4-> git init
+5-> 
